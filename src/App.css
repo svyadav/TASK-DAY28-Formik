@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.heading {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px;
+}
+
+.createbtn {
+  padding: 5px 16px;
+  font-size: 4rem;
+  margin-left: 50rem;
+}
+
+.color {
+  color: red;
+}
+
+.align {
+  text-align: left;
+}
+
+/* .fixed {
+  position: fixed;
+} */
+
+/* .marginRight {
+  margin-left: 50px;
+} */
+
+/* padding: 0px 17px;
+margin-left: 60rem;
+font-size: 2rem; */
+
+.text {
+  text-align: left;
+}
